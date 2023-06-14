@@ -1,0 +1,3 @@
+latihan git:
+- belajar membuat repo
+- belajar membuat file baru
