@@ -2,4 +2,4 @@ latihan git:
 - belajar membuat repo
 - belajar membuat file baru
 - belajar menambah/mengedit file
-- belajar merubah commit
+- belajar melihat network insights
